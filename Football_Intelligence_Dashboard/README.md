@@ -13,10 +13,19 @@ A comprehensive Power BI dashboard showcasing football performance metrics, tran
 - Custom visuals
 - Geographic mapping
 
-![Football Overview](football_overview.jpg)
-![Player Analytics](player_analytics.jpg)
-![Club Analytics](club_analytics.jpg)
-![Transfers](transfers_analytics.jpg)
+### ⚽ Dashboard Preview
+
+#### Overview  
+![Football Overview](https://raw.githubusercontent.com/Mohamednour7/PowerBI-Dashboard-Portfolio/gh-pages/Football_Intelligence_Dashboard/football_overview.jpg)
+
+#### Player Analytics  
+![Player Analytics](https://raw.githubusercontent.com/Mohamednour7/PowerBI-Dashboard-Portfolio/gh-pages/Football_Intelligence_Dashboard/player_analytics.jpg)
+
+#### Club Analytics  
+![Club Analytics](https://raw.githubusercontent.com/Mohamednour7/PowerBI-Dashboard-Portfolio/gh-pages/Football_Intelligence_Dashboard/club_analytics.jpg)
+
+#### Transfer Insights  
+![Transfers](https://raw.githubusercontent.com/Mohamednour7/PowerBI-Dashboard-Portfolio/gh-pages/Football_Intelligence_Dashboard/transfers_analytics.jpg)
 
 
 
