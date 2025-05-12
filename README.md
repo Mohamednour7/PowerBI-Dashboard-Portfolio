@@ -1,3 +1,5 @@
+![Portfolio Banner](./banner.png)
+
 # Power BI Dashboard Portfolio
 
 Welcome to my Power BI Dashboard Portfolio! This repository showcases a collection of data analysis projects built with Power BI. Each project focuses on different domains and highlights my skills in data modeling, dashboard design, and data storytelling.
