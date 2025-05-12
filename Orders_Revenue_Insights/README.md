@@ -19,7 +19,3 @@ This dashboard explores historical sales data from 2011 to 2014 to extract insig
 
 #### Product-Level Insights
 ![Product Dashboard](./product_dashboard.png)
-
-git add .
-git commit -m "Add images to Orders & Revenue dashboard README"
-git push
