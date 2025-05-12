@@ -1,5 +1,4 @@
 ---
-title: Power BI Dashboard Portfolio
 ---
 
 # 👋 Welcome to My Power BI Portfolio
