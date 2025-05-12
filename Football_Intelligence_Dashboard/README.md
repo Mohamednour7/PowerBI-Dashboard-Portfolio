@@ -16,14 +16,14 @@ A comprehensive Power BI dashboard showcasing football performance metrics, tran
 ### ⚽ Dashboard Preview
 
 #### Overview
-![Football Overview](./football_overview.jpg)
+![Football Overview](./football_overview.jpg.png)
 
 #### Player Analytics
-![Player Analytics](./player_analytics.jpg)
+![Player Analytics](./player_analytics.jpg.png)
 
 #### Club Analytics
-![Club Analytics](./club_analytics.jpg)
+![Club Analytics](./club_analytics.jpg.png)
 
 #### Transfer Insights
-![Transfers](./transfers_analytics.jpg)
+![Transfers](./transfers_analytics.jpg.png)
 
