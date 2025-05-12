@@ -29,3 +29,4 @@ A sports analytics dashboard exploring football match stats, player demographics
 
 ## 🚀 How to Use
 Each project folder contains a detailed `README.md` file with insights and visual summaries. Explore the dashboards to see real-world data storytelling in action!
+![Power BI Portfolio Banner](./banner.png)
