@@ -16,7 +16,7 @@ This dashboard explores historical sales data from 2011 to 2014 to extract insig
 - ### 📊 Dashboard Preview
 
 #### Orders Revenue
-![Orders Revenue Dashboard](./orders_revenue_dashboard.jpg)
+![Orders Revenue Dashboard](./orders_revenue_dashboard.jpg.jpg)
 
 #### Product Insights
 ![Product Dashboard](./product_dashboard.jpg)
