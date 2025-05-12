@@ -14,3 +14,5 @@ This Power BI dashboard analyzes key performance indicators from Kickstarter pro
 - Power BI
 - Data modeling
 - DAX calculations
+- ### Dashboard Preview
+![Kickstarter Dashboard](./kickstarter_dashboard.png)
